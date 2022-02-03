@@ -1,0 +1,20 @@
+C:\Users\maksi\source\repos\ProjectCsharp\ProjectCsharp\obj\Debug\ProjectCsharp.csproj.AssemblyReference.cache
+C:\Users\maksi\source\repos\ProjectCsharp\ProjectCsharp\obj\Debug\ProjectCsharp.Form1.resources
+C:\Users\maksi\source\repos\ProjectCsharp\ProjectCsharp\obj\Debug\ProjectCsharp.Properties.Resources.resources
+C:\Users\maksi\source\repos\ProjectCsharp\ProjectCsharp\obj\Debug\ProjectCsharp.csproj.GenerateResource.cache
+C:\Users\maksi\source\repos\ProjectCsharp\ProjectCsharp\obj\Debug\ProjectCsharp.csproj.CoreCompileInputs.cache
+C:\Users\maksi\source\repos\ProjectCsharp\ProjectCsharp\bin\Debug\ProjectCsharp.exe.config
+C:\Users\maksi\source\repos\ProjectCsharp\ProjectCsharp\bin\Debug\ProjectCsharp.exe
+C:\Users\maksi\source\repos\ProjectCsharp\ProjectCsharp\bin\Debug\ProjectCsharp.pdb
+C:\Users\maksi\source\repos\ProjectCsharp\ProjectCsharp\obj\Debug\ProjectCsharp.exe
+C:\Users\maksi\source\repos\ProjectCsharp\ProjectCsharp\obj\Debug\ProjectCsharp.pdb
+C:\Users\maksi\OneDrive\Рабочий стол\ProjectCsharp\ProjectCsharp\bin\Debug\ProjectCsharp.exe.config
+C:\Users\maksi\OneDrive\Рабочий стол\ProjectCsharp\ProjectCsharp\bin\Debug\ProjectCsharp.exe
+C:\Users\maksi\OneDrive\Рабочий стол\ProjectCsharp\ProjectCsharp\bin\Debug\ProjectCsharp.pdb
+C:\Users\maksi\OneDrive\Рабочий стол\ProjectCsharp\ProjectCsharp\obj\Debug\ProjectCsharp.csproj.AssemblyReference.cache
+C:\Users\maksi\OneDrive\Рабочий стол\ProjectCsharp\ProjectCsharp\obj\Debug\ProjectCsharp.Form1.resources
+C:\Users\maksi\OneDrive\Рабочий стол\ProjectCsharp\ProjectCsharp\obj\Debug\ProjectCsharp.Properties.Resources.resources
+C:\Users\maksi\OneDrive\Рабочий стол\ProjectCsharp\ProjectCsharp\obj\Debug\ProjectCsharp.csproj.GenerateResource.cache
+C:\Users\maksi\OneDrive\Рабочий стол\ProjectCsharp\ProjectCsharp\obj\Debug\ProjectCsharp.csproj.CoreCompileInputs.cache
+C:\Users\maksi\OneDrive\Рабочий стол\ProjectCsharp\ProjectCsharp\obj\Debug\ProjectCsharp.exe
+C:\Users\maksi\OneDrive\Рабочий стол\ProjectCsharp\ProjectCsharp\obj\Debug\ProjectCsharp.pdb
